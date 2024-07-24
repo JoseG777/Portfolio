@@ -37,3 +37,18 @@
     font-size: 0.9rem;
   }
   
+  .block {
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: #333;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .block h2 {
+    margin-bottom: 10px;
+  }
+  
+  .block p {
+    margin-bottom: 10px;
+  }
