@@ -9,7 +9,7 @@ function Projects() {
       <div className="project">
         <a href="https://github.com/JoseG777/AITAH-Story-Generator" target="_blank" rel="noopener noreferrer"><h2>Trending Stories Generator</h2></a>
         <ul>
-          <li><strong>About:</strong> This project was really fun but also challenging. It was my first time using all these technologies so I had a lot of trouble getting the hang of it, but ultimately I think I did pretty good. The project is pretty simple but it was a really good learning experience and I'm definitely going to implement these technologies into a future project</li>
+          <li><strong>About:</strong> This project was really fun but also challenging. It was my first time using all these technologies so I had a lot of trouble getting the hang of it, but ultimately I think I did pretty good. The project is pretty simple and I did it in the span of 4 days, but it was a really good learning experience and I'm definitely going to implement these technologies into a future project</li>
           <li>
             <h3>Tech Stack: Python</h3>
             <ul>
