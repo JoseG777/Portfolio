@@ -7,10 +7,10 @@ function HomePage() {
       <h1>Welcome to my portfolio!</h1>
       <h2>My name is Jose Guzman and I'm currently a rising junior at Hunter College pursuing a bachelor's degree in Computer Science.</h2>
       <p>
-        I have a strong interest in backend engineering and am quite comfortable setting up the frontend, though design is my weak point. I find a lot of fulfillment in completing projects, particularly those that involve complex problem-solving and the implementation of efficient, scalable solutions.
+        I have a strong interest in backend engineering and am quite comfortable setting up a frontend, but design is my weak point as I'm sure you can tell from the aesthetics of this website. I find a lot of fulfillment in completing projects, particularly those that involve complex problem-solving and the implementation of efficient, scalable solutions.
       </p>
       <p>
-        Throughout my academic and professional journey, I've developed proficiency in languages such as C++, Python, HTML, CSS, JavaScript, and SQL. I also have experience with frameworks like React.js, Vue.js, Express.js, Node.js, and Flask. My toolkit includes Git/GitHub, Postman, MongoDB, MySQL, Firebase, VS Code, Google Cloud, and Google Lighthouse.
+        Throughout my academic and professional journey, I've developed proficiency in languages such as Python, HTML, JavaScript, and SQL. I also have experience with frameworks like React.js, Vue.js, Express.js, Node.js, and Flask. My toolkit includes Git/GitHub, Postman, MongoDB, MySQL, Firebase, VS Code, Google Cloud, and Google Lighthouse.
       </p>
       <p>
         Of course there's always room for improvement so I try to keep my skills fresh by working on projects, practicing data structures and algorithms, and keeping up with new technologies!
