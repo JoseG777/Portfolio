@@ -8,6 +8,21 @@ function Experience() {
       
       <div className="project">
         <h2>Full-Stack Web Developer Intern</h2>
+        <p className="company-duration"><strong>Company:</strong> SEO Tech Developer, New York, NY</p>
+        <p className="company-duration"><strong>Duration:</strong> May 2024 - Aug 2024</p>
+        <ul>
+          <li><h3>Responsibilities:</h3>
+            <ul>
+              <li>Participated in an intensive 6-week SEO Tech Dev Program, focusing on full-stack development, security best practices, and unit testing.</li>
+              <li>Developed web applications using Python, Flask, and SQL in an Agile environment, collaborating on multiple projects and presenting to large audiences.</li>
+              <li>Enhanced problem-solving skills through practice with data structures and algorithms, improving coding efficiency and scalability.</li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+
+      <div className="project">
+        <h2>Full-Stack Web Developer Intern</h2>
         <p className="company-duration"><strong>Company:</strong> MNC Development, New York, NY</p>
         <p className="company-duration"><strong>Duration:</strong> Feb 2024 - May 2024</p>
         <ul>

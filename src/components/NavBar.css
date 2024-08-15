@@ -1,11 +1,12 @@
 .navbar {
-  background-color: #333;
+  background-color: #007bff;
   padding: 1rem;
   position: fixed;
   width: 100%;
   top: 0;
   left: 0;
   z-index: 1000;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
 .container {
@@ -19,9 +20,10 @@
 }
 
 .navbar-brand {
-  color: white;
+  color: #ffffff;
   font-size: 1.5rem;
   text-decoration: none;
+  font-weight: bold;
 }
 
 .navbar-links {
@@ -30,12 +32,14 @@
 }
 
 .navbar-item {
-  color: white;
+  color: #ffffff;
   text-decoration: none;
   font-size: 1.5rem;
+  transition: color 0.3s;
 }
 
 .navbar-item:hover {
+  color: #cce4ff;
   text-decoration: underline;
 }
 

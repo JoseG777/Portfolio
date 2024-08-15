@@ -4,22 +4,16 @@ import '../styles/HomePage.css';
 function HomePage() {
   return (
     <div className="homepage-container">
-      <h1>Welcome to my portfolio!</h1>
-      <h2>My name is Jose Guzman and I'm currently a rising junior at Hunter College pursuing a bachelor's degree in Computer Science.</h2>
+      <h1>Welcome to My Portfolio!</h1>
+      <h2>Hi, I'm Jose Guzman</h2>
       <p>
-        I have a strong interest in backend engineering and am quite comfortable setting up a frontend, but design is my weak point as I'm sure you can tell from the aesthetics of this website. I find a lot of fulfillment in completing projects, particularly those that involve complex problem-solving and the implementation of efficient, scalable solutions.
+        As a Computer Science junior at Hunter College, I’m passionate about software engineering because it lets me bring ideas to life. From my first line of code, I knew this field offered endless possibilities. I thrive on the challenge of transforming ideas into finished products, finding satisfaction in overcoming obstacles, and continuously improving my work.
       </p>
       <p>
-        Throughout my academic and professional journey, I've developed proficiency in languages such as Python, HTML, JavaScript, and SQL. I also have experience with frameworks like React.js, Vue.js, Express.js, Node.js, and Flask. My toolkit includes Git/GitHub, Postman, MongoDB, MySQL, Firebase, VS Code, Google Cloud, and Google Lighthouse.
+        My skills include Python, JavaScript, SQL, and frameworks like React, Node.js, and Flask. I’m also experienced with tools like Git, MongoDB, and Google Cloud.
       </p>
       <p>
-        Of course there's always room for improvement so I try to keep my skills fresh by working on projects, practicing data structures and algorithms, and keeping up with new technologies!
-      </p>
-      <p>
-        I'm passionate about software engineering and enjoy the process of bringing ideas to life through code. The challenges and continuous learning opportunities in this field keep me motivated and engaged.
-      </p>
-      <p>
-        Thank you for visiting my portfolio. Feel free to explore my projects and reach out if you have any questions or collaboration ideas!
+        I’m always learning, refining my skills through projects, algorithms practice, and staying current with new technologies. Let’s connect and create something amazing together!
       </p>
     </div>
   );
