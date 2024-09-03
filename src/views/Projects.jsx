@@ -7,6 +7,21 @@ function Projects() {
       <h1>Projects</h1>
 
       <div className="project">
+        <a href="https://ai-technical-interviewer.web.app/" target="_blank" rel="noopener noreferrer"><h2>Eve - AI Interviewer</h2></a>
+        <ul>
+          <li><strong>About:</strong> [Coming soon...]</li>
+          <li>
+            <h3> Tech Stack: React, Flask, Firebase, SQLite </h3>
+            <ul>
+              <li>Developed "Eve," an AI-powered technical interview platform using React, Flask, and SQLite, with Firebase for secure user authentication and JWT-based session management.</li>
+              <li>Implemented dynamic problem generation and AI-driven feedback using the OpenAI API, tailoring coding challenges to users' skills and providing real-time hints based on both coding and verbal responses.</li>
+              <li>Deployed a realistic interview simulation environment with features like on-screen camera display, session locking, and auto-submission on multiple exits, hosted on Firebase and Render.</li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+
+      <div className="project">
         <a href="https://github.com/JoseG777/AITAH-Story-Generator" target="_blank" rel="noopener noreferrer"><h2>Trending Stories Generator</h2></a>
         <ul>
           <li><strong>About:</strong> This project was really fun but also challenging. It was my first time using all these technologies so I had a lot of trouble getting the hang of it, but ultimately I think I did pretty good. The project is pretty simple and I did it in the span of 4 days, but it was a really good learning experience and I'm definitely going to implement these technologies into a future project</li>
@@ -25,7 +40,7 @@ function Projects() {
       <div className="project">
         <a href="https://github.com/JoseG777/VacaQuest" target="_blank" rel="noopener noreferrer"><h2>VacaQuest</h2></a>
         <ul>
-          <li><strong>About:</strong> This is the first project I worked on as apart of the SEO Tech Developers Program. I know what you're thinking: Isn't this just a copy of the Travel Itinerary Generator project? And to that, I say yes. Over the span of 4 days, my partner and I worked on this project and presented to ~40 people. This project was a good intro to writing code in Python and SQL.</li>
+          <li><strong>About:</strong> This is the first project I worked on as a part of the SEO Tech Developers Program. I know what you're thinking: Isn't this just a copy of the Travel Itinerary Generator project? And to that, I say yes. Over the span of 4 days, my partner and I worked on this project and presented it to ~40 people. This project was a good intro to writing code in Python and SQL.</li>
           <li>
             <h3> Tech Stack: Python, Flask, SQL </h3>
             <ul>
@@ -40,7 +55,7 @@ function Projects() {
       <div className="project">
         <a href="https://devpost.com/software/pillpal-airu2d" target="_blank" rel="noopener noreferrer"><h2>PillPal</h2></a>
         <ul>
-          <li><strong>About:</strong> This project was a pain! My team and I worked on this over the span of ~36 hours and the hardest part about it was setting up everything needed for React Native and the constant discrepencies between our versions. But overall I had a lot of fun doing it. We were all proud of what we were able to accomplish and we even ended up winning best use of Google Cloud!</li>
+          <li><strong>About:</strong> This project was a pain! My team and I worked on this over the span of ~36 hours and the hardest part about it was setting up everything needed for React Native and the constant discrepancies between our versions. But overall I had a lot of fun doing it. We were all proud of what we were able to accomplish and we even ended up winning best use of Google Cloud!</li>
           <li>
             <h3> Tech Stack: MongoDB, Express.js, React Native, Node.js </h3>
             <ul>
@@ -55,7 +70,7 @@ function Projects() {
       <div className="project">
         <a href="https://yugioh-saver.web.app/" target="_blank" rel="noopener noreferrer"><h2>Virtual Card Saver</h2></a>
         <ul>
-          <li><strong>About:</strong> This project is still in development! I really like Yu-Gi-Oh so I thought this would be a fun idea when I learned about the Yu-Gi-Oh API used in this project. There are still a handful of features I want to add and I hope to complete it by the end of August. This project made me realize the importance of designing scalable and optimal database schemas as going back to change stuff can be a headache, and that I prefer Vue over React.</li>
+          <li><strong>About:</strong> This project is still in development! I really like Yu-Gi-Oh so I thought this would be a fun idea when I learned about the Yu-Gi-Oh API used in this project. There are still a handful of features I want to add and I hope to complete it by the end of ... . This project made me realize the importance of designing scalable and optimal database schemas as going back to change stuff can be a headache, and that I prefer Vue over React.</li>
           <li>
             <h3> Tech Stack: MongoDB, Express.js, Vue.js, Node.js </h3>
             <ul>
@@ -81,6 +96,7 @@ function Projects() {
           </li>
         </ul>
       </div>
+
     </div>
   );
 }

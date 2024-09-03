@@ -13,7 +13,7 @@ function HomePage() {
         My skills include Python, JavaScript, SQL, and frameworks like React, Node.js, and Flask. I’m also experienced with tools like Git, MongoDB, and Google Cloud.
       </p>
       <p>
-        I’m always learning, refining my skills through projects, algorithms practice, and staying current with new technologies. Let’s connect and create something amazing together!
+        I’m always learning, refining my skills through projects, algorithms practice, and staying current with new technologies. 
       </p>
     </div>
   );

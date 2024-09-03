@@ -37,7 +37,6 @@ function Skills() {
             <li>Postman</li>
             <li>MongoDB</li>
             <li>Firebase</li>
-            <li>MySQL</li>
             <li>VS Code</li>
             <li>Google Cloud</li>
             <li>Google Lighthouse</li>
