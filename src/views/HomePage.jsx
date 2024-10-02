@@ -7,13 +7,13 @@ function HomePage() {
       <h1>Welcome to My Portfolio!</h1>
       <h2>Hi, I'm Jose Guzman</h2>
       <p>
-        As a Computer Science junior at Hunter College, I’m passionate about software engineering because it lets me bring ideas to life. From my first line of code, I knew this field offered endless possibilities. I thrive on the challenge of transforming ideas into finished products, finding satisfaction in overcoming obstacles, and continuously improving my work.
+        I’m a junior at Hunter College, majoring in Computer Science. Honestly, I kind of just chose CS on a whim (and because of the money), but it ended up being something I really enjoy. The more I learned, the more I realized how much I can actually do with code. I love the challenge of figuring things out and the feeling of finally solving a problem after banging my head against it for a while.
       </p>
       <p>
-        My skills include Python, JavaScript, SQL, and frameworks like React, Node.js, and Flask. I’m also experienced with tools like Git, MongoDB, and Google Cloud.
+        I’m always working on personal projects to push myself and learn new things. I’ve had my fair share of failures along the way, but I try to see them as part of the process—each one teaches me something new and helps me get better.
       </p>
       <p>
-        I’m always learning, refining my skills through projects, algorithms practice, and staying current with new technologies. 
+        When I’m not coding, I love to swim and read. Right now, I’m reading <em>Pedro Páramo</em> by Juan Rulfo—mostly to brush up on my Spanish, but it’s also a pretty great story.
       </p>
     </div>
   );
