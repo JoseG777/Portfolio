@@ -23,6 +23,7 @@ function Currently() {
           <li>Add and track tasks with customizable intervals for email reminders to help stay on top of them.</li>
           <li>Utilize AWS services for hosting, user authentication, and email notifications to improve scalability and functionality.</li>
         </ul>
+        <p>This project is also a stepping stone for a more ambitous project I want to pursue.</p>
       </div>
     
       <div className="block">
