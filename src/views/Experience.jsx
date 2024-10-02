@@ -5,7 +5,38 @@ function Experience() {
   return (
     <div className="projects-container">
       <h1>Experience</h1>
-      
+
+      <div className="project">
+        <h2>Software Engineering Intern</h2>
+        <p className="company-duration"><strong>Company:</strong> Lenox Hill Neighborhood House, New York, NY</p>
+        <p className="company-duration"><strong>Duration:</strong> Aug 2024 - Present</p>
+        <ul>
+          <li><h3>Responsibilities:</h3>
+            <ul>
+              <li>Automated district data extraction for patrons using Python, Selenium, and multiprocessing, reducing data collection time by over 90%.</li>
+              <li>Developed Python scripts to extract meal data from PDFs into Excel, improving data accuracy and reducing task time by 95%.</li>
+              <li>Enhanced sponsor report quality by improving data cleaning and input techniques using Excel.</li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+
+      <div className="project">
+        <h2>Lifeguard</h2>
+        <p className="company-duration"><strong>Company:</strong> Lenox Hill Neighborhood House, New York, NY</p>
+        <p className="company-duration"><strong>Duration:</strong> Dec 2022 - Present</p>
+        <ul>
+          <li><h3>Responsibilities:</h3>
+            <ul>
+              <li>Monitored pool activities to ensure patron safety, promptly addressing hazards and enforcing rules.</li>
+              <li>Maintained pool deck cleanliness and order, fostering a safe and welcoming environment.</li>
+              <li>Regularly checked chemical levels to comply with health standards and ensure pool safety.</li>
+              <li>Interacted with patrons to provide assistance, answer questions, and resolve concerns, promoting a positive community atmosphere.</li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+
       <div className="project">
         <h2>Full-Stack Web Developer Intern</h2>
         <p className="company-duration"><strong>Company:</strong> SEO Tech Developer, New York, NY</p>
@@ -38,32 +69,16 @@ function Experience() {
       </div>
 
       <div className="project">
-        <h2>Lifeguard</h2>
-        <p className="company-duration"><strong>Company:</strong> Lenox Hill Neighborhood House, New York, NY</p>
-        <p className="company-duration"><strong>Duration:</strong> Dec 2022 - Present</p>
-        <ul>
-          <li><h3>Responsibilities:</h3>
-            <ul>
-              <li>Vigilantly monitor pool activities to ensure the safety of patrons, addressing potential hazards and enforcing pool rules.</li>
-              <li>Maintain cleanliness and order on the pool deck, ensuring a safe and welcoming environment.</li>
-              <li>Routinely check and adjust chemical levels to adhere to health and safety standards.</li>
-              <li>Actively engage with patrons to answer questions and resolve concerns, promoting a positive community atmosphere.</li>
-            </ul>
-          </li>
-        </ul>
-      </div>
-
-      <div className="project">
         <h2>Lifeguard / Swim Instructor</h2>
         <p className="company-duration"><strong>Company:</strong> YMCA, New York, NY</p>
         <p className="company-duration"><strong>Duration:</strong> Dec 2021 - Sep 2023</p>
         <ul>
           <li><h3>Responsibilities:</h3>
             <ul>
-              <li>Conducted swim lessons for classes ranging from 8-12 individuals, spanning ages 3 to 80, emphasizing skill development, safety, and personal progress.</li>
-              <li>Managed diverse swimming activities, maintaining high safety standards in a high-traffic pool environment.</li>
-              <li>Performed hourly chemical balance checks to ensure pool health and safety compliance.</li>
-              <li>Tracked progress and awarded certificates at mid-season and end-of-season to recognize milestones and achievements.</li>
+              <li>Conducted swim lessons for individuals aged 3 to 80, focusing on skill development, safety, and progress.</li>
+              <li>Ensured safety in a high-traffic pool environment by overseeing swim activities and performing routine safety checks.</li>
+              <li>Maintained pool chemical balance and water quality, adhering to health and safety standards.</li>
+              <li>Tracked student progress and awarded certificates, recognizing milestones throughout the season.</li>
             </ul>
           </li>
         </ul>

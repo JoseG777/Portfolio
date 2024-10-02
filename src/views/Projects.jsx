@@ -9,13 +9,14 @@ function Projects() {
       <div className="project">
         <a href="https://ai-technical-interviewer.web.app/" target="_blank" rel="noopener noreferrer"><h2>Eve - AI Interviewer</h2></a>
         <ul>
-          <li><strong>About:</strong> [Coming soon...]</li>
+          <li><strong>About:</strong> This project was both challenging and rewarding. Our team collaborated intensively over a week and successfully completed it. We presented it to an audience of over 100 people and won "Best Overall" out of 9 competing projects on presentation day.</li>
+
           <li>
-            <h3> Tech Stack: React, Flask, Firebase, SQLite </h3>
+            <h3>Tech Stack: React, Flask, Firebase, SQLite</h3>
             <ul>
-              <li>Developed "Eve," an AI-powered technical interview platform using React, Flask, and SQLite, with Firebase for secure user authentication and JWT-based session management.</li>
-              <li>Implemented dynamic problem generation and AI-driven feedback using the OpenAI API, tailoring coding challenges to users' skills and providing real-time hints based on both coding and verbal responses.</li>
-              <li>Deployed a realistic interview simulation environment with features like on-screen camera display, session locking, and auto-submission on multiple exits, hosted on Firebase and Render.</li>
+              <li>Developed "Eve," an AI interview platform with dynamic problem generation and AI-driven feedback via OpenAI API.</li>
+              <li>Implemented Firebase-based authentication and JWT for secure user sessions, enhancing platform security.</li>
+              <li>Deployed an interview simulation environment, including camera display, session locking, and auto-submission, hosted on Firebase and Render.</li>
             </ul>
           </li>
         </ul>
@@ -70,7 +71,7 @@ function Projects() {
       <div className="project">
         <a href="https://yugioh-saver.web.app/" target="_blank" rel="noopener noreferrer"><h2>Virtual Card Saver</h2></a>
         <ul>
-          <li><strong>About:</strong> This project is still in development! I really like Yu-Gi-Oh so I thought this would be a fun idea when I learned about the Yu-Gi-Oh API used in this project. There are still a handful of features I want to add and I hope to complete it by the end of ... . This project made me realize the importance of designing scalable and optimal database schemas as going back to change stuff can be a headache, and that I prefer Vue over React.</li>
+          <li><strong>About:</strong> This project is still in development! I really like Yu-Gi-Oh so I thought this would be a fun idea when I learned about the Yu-Gi-Oh API used in this project. There are still a handful of features I want to add and I hope to complete it <del>by the end of</del> eventually... This project made me realize the importance of designing scalable and optimal database schemas as going back to change stuff can be a headache, and that I prefer Vue over React.</li>
           <li>
             <h3> Tech Stack: MongoDB, Express.js, Vue.js, Node.js </h3>
             <ul>
@@ -85,7 +86,7 @@ function Projects() {
       <div className="project">
         <a href="https://codefest-97b85.web.app/" target="_blank" rel="noopener noreferrer"><h2>Travel Itinerary Generator</h2></a>
         <ul>
-          <li><strong>About:</strong> This was the first project I ever worked on using React and Firebase. It was a great learning experience. My team and I worked on this over the span of a month and presented it in front of ~40 people. I learned a lot about what to do and not do when working in a team from this experience. We all worked on the same branch for a majority of the project which led to a lot of issues, but ultimately we were happy with the outcome!</li>
+          <li><strong>About:</strong> This was the first project I ever worked on using React and Firebase. It was a great learning experience. My team and I worked on this over the span of a month and presented it in front of ~40 people. I learned a lot about what to do and not do when working in a team from this experience.</li>
           <li>
             <h3> Tech Stack: Firebase, Express.js, React.js, Node.js </h3>
             <ul>
