@@ -6,7 +6,9 @@ function Projects() {
     <div className="projects-container">
       <h1>Projects</h1>
 
-      <div className="project">
+      <h2> Under Construction... </h2>
+
+      {/*<div className="project">
         <a href="https://ai-technical-interviewer.web.app/" target="_blank" rel="noopener noreferrer"><h2>Eve - AI Interviewer</h2></a>
         <ul>
           <li><strong>About:</strong> This project was both challenging and rewarding. Our team collaborated intensively over a week and successfully completed it. We presented it to an audience of over 100 people and won "Best Overall" out of 9 competing projects on presentation day.</li>
@@ -96,7 +98,7 @@ function Projects() {
             </ul>
           </li>
         </ul>
-      </div>
+      </div>*/}
 
     </div>
   );

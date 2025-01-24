@@ -4,7 +4,8 @@ import '../styles/HomePage.css';
 function HomePage() {
   return (
     <div className="homepage-container">
-      <h1>Welcome to My Portfolio!</h1>
+      <h1> Under Construction... </h1>
+      {/*<h1>Welcome to My Portfolio!</h1>
       <h2>Hi, I'm Jose Guzman</h2>
       <p>
         I’m a junior at Hunter College, majoring in Computer Science. I didn't have any tech experience coming into college so I kind of just chose CS on a whim, but it ended up being something I really enjoy. The more I learn, the more I realized how much I can actually do with code. I love the challenge of figuring things out and the feeling of finally solving a problem after banging my head against it for a while.
@@ -14,7 +15,7 @@ function HomePage() {
       </p>
       <p>
         When I’m not coding, I love to swim and read. Right now, I’m reading <em>Pedro Páramo</em> by Juan Rulfo—mostly to brush up on my Spanish.
-      </p>
+      </p>*/}
     </div>
   );
 }

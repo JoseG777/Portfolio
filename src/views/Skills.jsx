@@ -6,7 +6,9 @@ function Skills() {
     <div className="skills-container">
       <h1>Skills</h1>
 
-      <div className="skills-grid">
+      <h2> Under Construction... </h2>
+
+      {/*<div className="skills-grid">
         <div className="skills-section">
           <h2>Languages</h2>
           <ul>
@@ -40,7 +42,7 @@ function Skills() {
             <li>Microsoft Excel</li>
           </ul>
         </div>
-      </div>
+      </div>*/}
     </div>
   );
 }

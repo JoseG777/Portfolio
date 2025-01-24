@@ -6,7 +6,8 @@ function Experience() {
     <div className="projects-container">
       <h1>Experience</h1>
 
-      <div className="project">
+      <h2> Under Construction... </h2>
+      {/*<div className="project">
         <h2>Software Engineering Intern</h2>
         <p className="company-duration"><strong>Company:</strong> Lenox Hill Neighborhood House, New York, NY</p>
         <p className="company-duration"><strong>Duration:</strong> Aug 2024 - Present</p>
@@ -82,7 +83,7 @@ function Experience() {
             </ul>
           </li>
         </ul>
-      </div>
+      </div>*/}
     </div>
   );
 }
